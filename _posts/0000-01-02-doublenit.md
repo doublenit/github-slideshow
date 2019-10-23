@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Yeah, well, that's like, your opinion, man." - The Dude
 Use the left arrow to go back!
